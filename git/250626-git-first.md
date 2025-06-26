@@ -10,9 +10,12 @@
 ![분산형](C:\Users\양숙\Documents\fastcampus_git_lesson\TIL\git\non-linear development.jpg)
 
 ## Git 주요 개념
-Working directory -> staging area -> local repository --> remote repository
-               git add  >>     git commit      >> git push 
-        <<<<<<<<<<<<<< git switch <<<<<<<      << git pull
+1. Working directory -> 2. staging area -> 3. local repository --> 4. remote repository
+1 -> 2 : git add 
+2 -> 3 : git commit
+3 -> 4 : git push
+3 <-> 1 : git switch
+4 -> 3 : git pull
 
 ## Git _ configuration Set up
 $ git config --global user.name “{username}”
