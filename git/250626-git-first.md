@@ -4,13 +4,16 @@
 분산형 버전관리 시스템(distributed Version Control System)
 
 ## git 특징
--비선형적 개발(수천개의 브랜치) 가능
-![비선형적 개발](C:\Users\양숙\Documents\fastcampus_git_lesson\TIL\git\decentralized repository.jpg)
--분산형 저장소 지원
-![분산형](C:\Users\양숙\Documents\fastcampus_git_lesson\TIL\git\non-linear development.jpg)
+- 비선형적 개발(수천개의 브랜치) 가능
+- 분산형 저장소 지원
 
 ## Git 주요 개념
-1. Working directory -> 2. staging area -> 3. local repository --> 4. remote repository
+1. Working directory 
+2. staging area 
+3. local repository 
+4. remote repository
+
+
 1 -> 2 : git add 
 2 -> 3 : git commit
 3 -> 4 : git push
